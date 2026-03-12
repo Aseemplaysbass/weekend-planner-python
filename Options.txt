@@ -1,0 +1,72 @@
+HomeOptions
+1. Guest Profile
+2. Suggest Changes
+3. Create Profile
+4. Profile Login
+5. Profile Recovery
+6. Update Profile
+7. Admin Login
+8. Exit
+
+UserMenuOptions
+V: View Locations
+F: Bookmarks Archive
+D: Provide Feedback
+R: Delete Profile
+L: Logout
+
+ViewOptions
+E: Entertainment 
+C: Cultural and Educational Attractions
+R: Recreational Activities
+F: Food and Drinks
+S: Shopping Malls
+W: Random Choice
+B: Back
+
+EntertainmentOptions
+1. Cinema
+2. Arcade
+3. Golf
+4. Bowling
+5. Escape Rooms
+6. Lazer Tag
+7. Amusement Parks
+X: Exit to User Menu
+
+CulturalOptions
+1. Museums
+2. Historical Sites
+3. Science Centres
+4. Planateriums
+5. Art Studios
+6. Libraries
+X: Exit to User Menu
+
+RecreationalOptions
+1. Zoos
+2. Botanical Gardens
+3. Leisure Parks
+4. Snow Parks
+5. Spa
+6. Tattoo Studios
+X: Exit to User Menu
+
+EateriesOptions
+1. Fine Dining
+2. Bakeries
+3. Cafes
+4. Bars
+5. Bistros
+6. Pubs
+7. Coffee House
+8. Teppanyaki Grill
+X: Exit to User Menu
+
+AdminMenuOptions
+S: View Suggestions
+I: View Implied Suggestions
+P: View Profiles
+R: Password Manager
+L: Logout
+
